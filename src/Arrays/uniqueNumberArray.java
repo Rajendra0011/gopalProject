@@ -29,6 +29,7 @@ public class uniqueNumberArray
 //				System.out.println(k);
 				if(k==1)
 					System.out.println(a[i]+" : unique number");
+				System.out.println(a[i]+" : unique number");
 			}
 			
 		}
