@@ -10,6 +10,7 @@ public abstract class Abstractclass
 	public void inputModule()
 	{
 		System.out.println("This is input module");
+		System.out.println("This is input module");
 	}
 	public abstract void ecom();
 
